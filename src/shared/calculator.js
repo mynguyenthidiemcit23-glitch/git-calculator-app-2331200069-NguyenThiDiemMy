@@ -1,5 +1,5 @@
 function compute(a, b, op) {
-  const unusedVar = 'test';
+  // const unusedVar = 'test';
   if (op === '+') return a + b;
   if (op === '-') return a - b;
   if (op === '*') return a * b;
